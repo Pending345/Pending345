@@ -1,10 +1,7 @@
-
 # Branch Information:
-This branch shows a python project created for a school project.
+This branch shows a oop project created with a partner.
 <br>
-The function of this application is to use AI to scan images and make summaries of those images.
-<br>
-When presented to my teachers they were impressed and gave me a score of 9/10.
+The function of this website is to have an agenda where you can add events and timeslots to create a schedule.
 
 
 ## 🌐 Socials:
