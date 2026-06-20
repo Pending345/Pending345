@@ -1,7 +1,13 @@
-# Branch Information:
-This branch shows a oop project created with a partner.
+## Hi there 👋
+
+# 💫 About Me:
+I'm Raf, yet go by my username more as Pend. I've found myself in the coding space due to my interest in robots and games since I was young.
 <br>
-The function of this website is to have an agenda where you can add events and timeslots to create a schedule.
+I study software development and like to try my hand in different coding languages to see what sticks with me.
+<br>
+I'm great at thinking of and visualising ideas, though it takes a long time to create what I want.
+<br><br>
+🔭 I’m currently working on a virtual reality project.<br>🌱 I’m currently learning how to create projects involving the use of laravel
 
 
 ## 🌐 Socials:
