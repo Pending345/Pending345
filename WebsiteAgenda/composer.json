@@ -1,0 +1,11 @@
+{
+    "name": "rafhi/kalendersource",
+    "autoload": {
+        "psr-4": {
+            "Calendar\\": "src/"
+        }
+    },
+    "require": {
+        "smarty/smarty": "^5.7"
+    }
+}
