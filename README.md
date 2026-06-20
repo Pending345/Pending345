@@ -1,28 +1,7 @@
-## Hi there 👋
-
-<!--
-**Pending345/Pending345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# 💫 About Me:
-I'm Raf, yet go by my username more as Pend. I've found myself in the coding space due to my interest in robots and games since I was young.
+# Branch Information:
+This branch shows a oop project created with a partner.
 <br>
-I study software development and like to try my hand in different coding languages to see what sticks with me.
-<br>
-I'm great at thinking of and visualising ideas, though it takes a long time to create what I want.
-<br><br>
-🔭 I’m currently working on a virtual reality project.<br>🌱 I’m currently learning how to create projects involving the use of laravel
+The function of this website is to have an agenda where you can add events and timeslots to create a schedule.
 
 
 ## 🌐 Socials:
